@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🌟 **Name:** Quang
+- 🌟 **Name:** Gia Quang
 - 💼 **Current Role:** Student
-- 🎓 **Education:** Currently studying at the University of Engineering and Technology – Vietnam National University, Hanoi (VNU-UET)
+- 🎓 **Education:** Currently studying at VNU-UET
 - 🌐 **Location:** Hanoi, Vietnam
 
 ## Skills
