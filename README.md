@@ -38,4 +38,3 @@ Feel free to reach out if you want to collaborate on a project or just have a ch
 ![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gquang06&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gquang06&layout=compact&theme=radical)
-```` ▋
